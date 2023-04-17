@@ -3,13 +3,13 @@
 
 ## Requirements
 > **Install Brew**
-> You need to install `brew` with this command:
+You need to install `brew` with this command:
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 ### Postgres.app
-> Go on [Postgres.app](https://postgresapp.com/) and install it on "Downloads" session. 
+Go on [Postgres.app](https://postgresapp.com/) and install it on "Downloads" session. 
 
 ### Install Pgweb
 Now we install `pgweb` with this command:
