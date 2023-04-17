@@ -9,9 +9,8 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-> **Install Progress.app**
-> Go on (Postgress.app)[https://postgresapp.com/] and install it on "Downloads" session. 
-
+> **Install Postgres.app**
+> Go on (Postgres.app)[https://postgresapp.com/] and install it on "Downloads" session. 
 
 
 Now open your terminal and check your $SHELL. You can check with this command:
