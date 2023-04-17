@@ -8,12 +8,10 @@
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-
-# To install
-## Postgres.app
+### Postgres.app
 > Go on [Postgres.app](https://postgresapp.com/) and install it on "Downloads" session. 
 
-## Pgweb
+### Install Pgweb
 Now we install `pgweb` with this command:
 ```bash
 brew install pgweb
