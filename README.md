@@ -43,3 +43,14 @@ To conclude open `pgweb`:
 ```bash
 pgweb
 ```
+
+## Common errors
+### PostgreSQL - port 5432 already in use
+To check what is running on port 5432, issue the following command on your terminal.
+```bash
+sudo lsof -i :5432
+```
+Now kill all PostgreSQL processes, issue the following command.
+```bash
+sudo pkill -u postgres
+```
