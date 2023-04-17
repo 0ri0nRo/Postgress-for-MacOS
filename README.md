@@ -42,12 +42,3 @@ your_name\=\#
 ```
 
 To conclude open `pgweb`.
-
-
-
-
-```bash
-cd openmodelica-apple-silicon
-chmod +x install.sh
-./install.sh
-```
