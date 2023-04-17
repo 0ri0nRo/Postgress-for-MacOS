@@ -19,6 +19,8 @@ Now we install `pgweb` with this command:
 brew install pgweb
 ```
 
+## On terminal
+
 Now open your terminal and check your $SHELL. You can check with this command:
 ```bash
 echo $0
@@ -33,12 +35,13 @@ If your $SHELL is "bash" copy this command:
 ```bash
 echo 'export PATH=/Applications/Postgres.app/Contents/Versions/15/bin:$PATH' >> ~/.bashrc
 ```
-
+## Open & Use
 After open PostgreSQL, if you  write and run `psql` on your terminal you should see:
-
 ```bash
 your_name\=\#
 ```
+
+To conclude open `pgweb`.
 
 
 
