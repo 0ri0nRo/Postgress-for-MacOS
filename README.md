@@ -11,7 +11,7 @@
 
 # To install
 ## Postgres.app
-> Go on (Postgres.app)[https://postgresapp.com/] and install it on "Downloads" session. 
+> Go on [Postgres.app](https://postgresapp.com/) and install it on "Downloads" session. 
 
 ## Pgweb
 Now we install `pgweb` with this command:
