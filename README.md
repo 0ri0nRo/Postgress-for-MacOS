@@ -2,7 +2,7 @@
 
 
 ## Requirements
-> **Install Brew**
+**Install Brew**
 You need to install `brew` with this command:
 
 ```bash
