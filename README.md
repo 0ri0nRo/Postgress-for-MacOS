@@ -41,4 +41,7 @@ After open PostgreSQL, if you  write and run `psql` on your terminal you should 
 your_name\=\#
 ```
 
-To conclude open `pgweb`.
+To conclude open `pgweb`:
+```bash
+pgweb
+```
