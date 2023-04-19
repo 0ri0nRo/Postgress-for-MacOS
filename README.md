@@ -50,7 +50,40 @@ To check what is running on port 5432, issue the following command on your termi
 ```bash
 sudo lsof -i :5432
 ```
-Now kill all PostgreSQL processes, issue the following command.
+
+My output:
+```bash
+postgres
+```
+
+Now kill all PostgreSQL `postgres` processes, issue the following command.
 ```bash
 sudo pkill -u postgres
-```
+````
+### Note
+If your output is different then you will have to kill those processes of that program.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
