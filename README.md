@@ -53,7 +53,9 @@ sudo lsof -i :5432
 
 My output:
 ```bash
-postgres
+COMMAND  PID     USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
+postgres 482 postgres    7u  IPv6 0xe7f8dbd595be4cbd      0t0  TCP *:postgresql (LISTEN)
+postgres 482 postgres    8u  IPv4 0xe7f8dbd5962f87d5      0t0  TCP *:postgresql (LISTEN)
 ```
 
 Now kill all PostgreSQL `postgres` processes, issue the following command.
