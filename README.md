@@ -1,15 +1,5 @@
 # Postgress guide for MacOS
 
-- [[#Requirements|Requirements]]
-	- [[#Requirements#Install Brew|Install Brew]]
-	- [[#Requirements#Postgres.app|Postgres.app]]
-	- [[#Requirements#Install Pgweb|Install Pgweb]]
-- [[#On terminal|On terminal]]
-- [[#Open & Use|Open & Use]]
-- [[#Common errors|Common errors]]
-	- [[#Common errors#PostgreSQL - port 5432 already in use|PostgreSQL - port 5432 already in use]]
-	- [[#Common errors#Note|Note]]
-
 ## Requirements
 
 ### Install Brew
