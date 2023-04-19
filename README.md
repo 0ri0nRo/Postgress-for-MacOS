@@ -1,13 +1,4 @@
 # Postgress guide for MacOS
-# Contents
-
-- [Requirements](##Requirements)
-- [Install Brew](###InstallBrew)
-- [Postgres.app](#curriculum)
-- [Install Pgweb](#code-of-conduct)
-- [On terminal](#team)
-- [Open & Use](#team)
-- [Common errors](#team)
 
 ## Requirements
 
