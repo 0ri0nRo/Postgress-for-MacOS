@@ -2,7 +2,7 @@
 # Contents
 
 - [Requirements](##Requirements)
-- [Install Brew](#community)
+- [Install Brew](###InstallBrew)
 - [Postgres.app](#curriculum)
 - [Install Pgweb](#code-of-conduct)
 - [On terminal](#team)
