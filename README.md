@@ -122,8 +122,26 @@ Now kill all PostgreSQL `postgres` processes, issue the following command.
 
 sudo pkill -u postgres
 
-````
+```
 
 ### Note
 
 If your output is different then you will have to kill those processes of that program.
+## How to create a DB and insert file.sql
+
+First create a DB with this command:
+
+```bash
+CREATE DATABASE namedb
+```
+If you want to delete a DB:
+```bash
+DROP DATABASE nomedb
+```
+Now import your file typing `psql namedb` and insert your file:
+``` bash
+\i namefile.sql
+```
+
+
+
