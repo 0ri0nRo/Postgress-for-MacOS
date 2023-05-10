@@ -138,7 +138,7 @@ If you want to delete a DB:
 ```bash
 DROP DATABASE nomedb
 ```
-Now import your file typing `psql namedb` and insert your file:
+Now go to the folder where the DB files exist using the `cd` command and import your file by typing `psql namedb` and insert your file:
 ``` bash
 \i namefile.sql
 ```
